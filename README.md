@@ -1,2 +1,1 @@
-# button.progman.py
-button windows 8 style progman
+build kernel 6 iso cd live gui
